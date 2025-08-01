@@ -1,0 +1,18 @@
+.container__ordenacao{
+    margin: 56px 0;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.botao{
+    background-color: transparent;
+    color: var(--cinza-medio);
+    border: none;
+}
+
+.ativo{
+   text-decoration: underline;
+   color: var(--verde-destaque);
+   font-weight: 600;
+}
